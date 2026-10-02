@@ -243,7 +243,6 @@ Example:
 
 ## 👨‍💻 Developer
 
-### Balavignesh
 
 **QR Code Generator – Android Application**
 
@@ -266,5 +265,3 @@ This project is intended for **educational and personal use**.
 ## 🌐 Web Version
 
 A web version of the QR Code Generator is also available:
-
-🔗 https://balavignesh2025.neocities.org/Project/QR%20CODE%20/QR
