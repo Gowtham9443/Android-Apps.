@@ -2,9 +2,6 @@
 
 **Text to All Text** is a simple text and file conversion application that allows users to create, edit, clean, format, and convert text files.
 
-🌐 **Web Version:**  
-https://balavignesh2025.neocities.org/Text%20To%20All%20Files/text-to-all-text
-
 📱 **Android APK Version:** Available as an Android application.
 
 ---
